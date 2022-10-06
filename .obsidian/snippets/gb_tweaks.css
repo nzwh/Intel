@@ -1,0 +1,38 @@
+/* Fix: Fill table space to 100% */
+table {
+    width: 100% !important;
+}
+
+/* Fix: Pad list */
+.HyperMD-list-line {
+    text-indent: 0 !important;
+    padding-left: 1rem !important;
+}
+
+/* Fix: Change equation color */
+.MJX-TEX {
+    color: #d8b69a;
+}
+
+/* Fix: Justify all text */
+/*.markdown-source-view .cm-line {
+    text-align: justify !important;
+}*/
+
+/* Fix: Justify all text */
+/*.markdown-reading-view p {
+    text-align: justify !important;
+}*/
+
+/* Fix: Center all elements (table, equations) */
+/*.cm-embed-block {
+    display: flex !important;       
+    justify-content: center !important;
+    min-width: 0 !important;
+}
+*/
+
+/* Fix: Align equations to the left */
+/*.cm-embed-block mjx-container[jax="CHTML"][display="true"] {
+    text-align: left !important;
+}*/

@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "8d467788275f96f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac63d61d35d2d9e3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CM - Vectors.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "484b959a4f0480aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c721260000dafa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f95218ba7a887325",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "327f1f7d4aae2b8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f74371437ce32329",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.02499771118164
+  },
+  "right": {
+    "id": "127972ae9ad354d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c07fb14df30a970a",
+        "type": "tabs",
+        "dimension": 35.7201646090535,
+        "children": [
+          {
+            "id": "fee648553d41fe5d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "163828700e4fd19e",
+        "type": "tabs",
+        "dimension": 40.49382716049383,
+        "children": [
+          {
+            "id": "0a8288263c888d1c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "59c64b293d2ff862",
+        "type": "tabs",
+        "dimension": 23.786008230452673,
+        "children": [
+          {
+            "id": "1cd1c5d01ddf49f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CM - Vectors.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9c17b583fa00c3f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "7ea0d771e2989305",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.0251159667969
+  },
+  "active": "ac63d61d35d2d9e3",
+  "lastOpenFiles": [
+    "Pasted image 20220930234257.png.md",
+    "S&P - Reviewer.md",
+    "CM04 - Matrices and Systems of Linear Equations 01.md",
+    "CM03 - Using EROs to Find the Inverse of a Matrix.md",
+    "CM02 - Identity Matrix, Inverse of Matrix, Special Matrices.md",
+    "CM01 - Matrices and Properties of Matrix Operations.md",
+    "CS01 - Initializing Arrays.md",
+    "CM - Vectors.md",
+    "CM01 - Matrices and Properties of Matrix Operations 1.md",
+    "S&P - Random Variables and Probability Distributions.md"
+  ]
+}

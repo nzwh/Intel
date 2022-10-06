@@ -1,0 +1,11 @@
+/* Fix: Enlarge padding and change color of inline code */
+.markdown-source-view .cm-inline-code {
+    color: rgb(114, 137, 218) !important;
+    padding: 0.2rem 0.3rem !important;
+}
+
+/* Fix: Enlarge padding and change color of inline code */
+.markdown-reading-view p code {
+    color: rgb(114, 137, 218) !important;
+    padding: 0.2rem 0.3rem !important;
+}

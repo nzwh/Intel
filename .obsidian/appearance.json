@@ -1,0 +1,21 @@
+{
+  "interfaceFontFamily": "Oyko,Pilat Test,Almarena Mono,TT Interfaces,Inter",
+  "cssTheme": "Prism",
+  "baseFontSize": 13,
+  "monospaceFontFamily": "Berkeley Mono,Ligalex Mono",
+  "translucency": true,
+  "textFontFamily": "Berkeley Mono,Liga Meslo LG M DZ,Ligalex Mono,Inter,Pilat Test,Brut Grotesque,Oyko",
+  "enabledCssSnippets": [
+    "table_fix",
+    "quote_block_fix",
+    "qb_fix",
+    "inlinecode_fix",
+    "gb_quote",
+    "gb_table",
+    "wg_calendar",
+    "wg_containers",
+    "gb_code",
+    "gb_tweaks",
+    "ex_tweaks"
+  ]
+}

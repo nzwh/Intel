@@ -1,0 +1,20 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "trashOption": "local",
+  "showUnsupportedFiles": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "showIndentGuide": true,
+  "spellcheck": true,
+  "foldHeading": true,
+  "showLineNumber": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false
+}

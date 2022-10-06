@@ -1,0 +1,37 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": "plugins/obsidian-icon-folder/icons",
+    "fontSize": 10,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiNotificationBadgeLine",
+      "F1NetworkServer",
+      "F14kVideoToMp3",
+      "RiFolder2Line",
+      "RiStickyNoteLine"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "_index/CCDSTRU - Discrete Structures": "RiFolder2Line",
+  "_index/CCPROG2 - Programming with Structured Datatypes": "RiFolder2Line",
+  "_index/CSMATH1 - Differential Calculus": "RiFolder2Line",
+  "_index/GEMATMW - Mathematics in the Modern World": "RiFolder2Line",
+  "_index/LCFILIA - Introduksyon sa Filipinolohiya at Araling Pilipinas": "RiFolder2Line",
+  "_index/NSTPCW1 - CWTS Formation Phase": "RiFolder2Line",
+  "_index/CCPROG2 - Programming with Structured Datatypes/_notes": "RiStickyNoteLine",
+  "_index/CCDSTRU - Discrete Structures/_notes": "RiStickyNoteLine",
+  "_index/CSMATH1 - Differential Calculus/_notes": "RiStickyNoteLine",
+  "_index/GEMATMW - Mathematics in the Modern World/_notes": "RiStickyNoteLine",
+  "_index/LCFILIA - Introduksyon sa Filipinolohiya at Araling Pilipinas/_notes": "RiStickyNoteLine",
+  "_index/NSTPCW1 - CWTS Formation Phase/_notes": "RiStickyNoteLine",
+  "_index/CCDSTRU - Discrete Structures/_mp": "RiNotificationBadgeLine",
+  "_index/CCPROG2 - Programming with Structured Datatypes/_mp": "RiNotificationBadgeLine"
+}

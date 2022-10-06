@@ -1,0 +1,41 @@
+/* Fix: Main Panel - Filename  */
+.view-header-title, .view-header-icon, .view-header-title-container {
+    background-color: var(--background-secondary);
+    font-size: 0.8rem;
+    font-weight: 400;
+}
+
+/* Fix: Explorer - Header */
+.pt-custom-vault-banner .nav-folder-title[data-path="/"] {
+    background-color: var(--background-secondary);
+}
+
+/* Fix: Explorer - Header Icon*/
+.pt-custom-vault-banner .nav-folder-title[data-path="/"] .nav-folder-collapse-indicator {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin: 0 0.5rem;
+}
+
+/* Fix: Explorer - Header Title */
+.pt-custom-vault-banner .nav-folder-title[data-path="/"] .nav-folder-title-content {
+    font-size: 0.8rem;
+    color: rgb(114, 137, 218) !important;
+}
+
+/* Fix: Explorer - Toggles */
+.nav-folder-collapse-indicator {
+    min-width: 1rem;
+}
+
+/* Fix: Explorer - Active File*/
+.theme-dark.pt-accent-style-text-dt .workspace-leaf-content[data-type=file-explorer] .nav-file-title.is-active {
+    color: rgb(114, 137, 218);
+}
+
+/* Fix: Calendar - Fontsizing */
+.svelte-1vwr9dd .title {
+    font-size: 1rem !important;
+    font-weight: 600 !important;
+    padding-left: 0.6rem !important;
+}

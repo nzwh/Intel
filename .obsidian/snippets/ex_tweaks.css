@@ -1,0 +1,90 @@
+/* Fix: Enlarge padding and change color of inline code */
+.markdown-reading-view p code {
+    color: rgb(114, 137, 218) !important;
+    padding: 0.2rem 0.3rem !important;
+}
+
+/* Fix: Align image realtime */
+.grid span.image-embed[alt*="."], span[alt*="grid"] {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 3px;
+}
+img[alt*="grid"], .grid img[alt*="."] {
+    max-height: 30vh;
+}
+/* Floating Images */
+img[alt*="left"] {
+    float:left;
+    clear:left;
+    margin-right: 1rem;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+img[alt*="right"] {
+    float:right;
+    clear:right;
+    margin-left: 1rem;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+img[alt*="center"],img[alt*="centre"] {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+
+
+/* @TClark1011 */
+/* Enhanced images */;
+img {
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    /* Background color so PNGs with transparent backgrounds don't look weird */
+    background-color: var(--background-secondary); 
+    align-content: center !important;
+}
+
+/* @rsdimitrov */
+/* Auto fades note header controlls */
+.view-header:not(:hover) .view-actions {
+  opacity: 0.1;
+  transition: opacity 0.25s ease-in-out;
+}
+/* Auto fades status bar items */
+.status-bar:not(:hover) .status-bar-item {
+  opacity: 0.25;
+  transition: opacity 0.25s ease-in-out;
+}
+
+/* @rsdimitrov */
+/* Smaller scrollbar */
+.CodeMirror-vscrollbar,
+.CodeMirror-hscrollbar,
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+/* @boyd */
+/* Hyphenation and Justification */
+.cm-s-obsidian,
+.markdown-preview-view {
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* @cannibalox & @konhi */
+/* Larger file preview */
+.popover.hover-popover {
+  transform: scale(0.8); /* makes the content smaller */
+  max-height: 800px; /* was 300 */
+  min-height: 100px;
+  width: 500px; /* was 400 */
+}
+.popover.hover-popover .markdown-embed {
+  height: 800px;
+}
