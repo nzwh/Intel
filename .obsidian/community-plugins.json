@@ -1,5 +1,4 @@
 [
-  "table-editor-obsidian",
   "obsidian-style-settings",
   "cm-editor-syntax-highlight-obsidian",
   "highlightr-plugin",
@@ -11,5 +10,6 @@
   "obsidian-dictionary-plugin",
   "meld-calc",
   "obsidian-tabs",
-  "multi-column-markdown"
+  "multi-column-markdown",
+  "obsidian-matrix"
 ]

@@ -2,9 +2,9 @@
   "interfaceFontFamily": "Oyko,Pilat Test,Almarena Mono,TT Interfaces,Inter",
   "cssTheme": "Prism",
   "baseFontSize": 13,
-  "monospaceFontFamily": "Berkeley Mono,Ligalex Mono",
+  "monospaceFontFamily": "Ligalex Mono,Berkeley Mono",
   "translucency": true,
-  "textFontFamily": "Berkeley Mono,Liga Meslo LG M DZ,Ligalex Mono,Inter,Pilat Test,Brut Grotesque,Oyko",
+  "textFontFamily": "Liga Berkeley Mono,Berkeley Mono,Ligalex Mono,Liga Meslo LG M DZ,Inter,Pilat Test,Brut Grotesque,Oyko",
   "enabledCssSnippets": [
     "table_fix",
     "quote_block_fix",

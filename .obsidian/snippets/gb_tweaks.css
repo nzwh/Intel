@@ -11,8 +11,41 @@ table {
 
 /* Fix: Change equation color */
 .MJX-TEX {
-    color: #d8b69a;
+    color: #a9b5d7;
 }
+
+/* Fix: Larger equations */
+mjx-math {
+    font-size: 110% !important;
+}
+
+/* Fix: Colored headers */
+.cm-header-1,
+.cm-header-2,
+.cm-header-3,
+.cm-header-4,
+.cm-header-5{
+    color: #b9b0ff;
+}
+
+/* Fix: Colored headers */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5{
+    color: #b9b0ff;
+}
+
+/* Fix: Unjustify hidden blocks */
+/*.cm-active {
+    text-align: left !important;
+}
+*/
+/* Fix: Readable line height */
+/*.cm-line {
+    padding: 0.1rem 0rem !important;
+}*/
 
 /* Fix: Justify all text */
 /*.markdown-source-view .cm-line {

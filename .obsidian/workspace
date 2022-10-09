@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CM - Vectors.md",
+            "file": "CSMATH2 - Linear Algebra for Computer Science/CM04 - Matrices and Systems of Linear Equations 01.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "73e28ffde7067680",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "drafts/CM04 - Matrices and Systems of Linear Equations 01.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +82,6 @@
       {
         "id": "c07fb14df30a970a",
         "type": "tabs",
-        "dimension": 35.7201646090535,
         "children": [
           {
             "id": "fee648553d41fe5d",
@@ -85,7 +96,6 @@
       {
         "id": "163828700e4fd19e",
         "type": "tabs",
-        "dimension": 40.49382716049383,
         "children": [
           {
             "id": "0a8288263c888d1c",
@@ -100,7 +110,6 @@
       {
         "id": "59c64b293d2ff862",
         "type": "tabs",
-        "dimension": 23.786008230452673,
         "children": [
           {
             "id": "1cd1c5d01ddf49f0",
@@ -108,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM - Vectors.md",
+                "file": "CSMATH2 - Linear Algebra for Computer Science/CM04 - Matrices and Systems of Linear Equations 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,19 +152,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.0251159667969
+    "width": 323.0251159667969,
+    "collapsed": true
   },
   "active": "ac63d61d35d2d9e3",
   "lastOpenFiles": [
-    "Pasted image 20220930234257.png.md",
-    "S&P - Reviewer.md",
-    "CM04 - Matrices and Systems of Linear Equations 01.md",
-    "CM03 - Using EROs to Find the Inverse of a Matrix.md",
-    "CM02 - Identity Matrix, Inverse of Matrix, Special Matrices.md",
-    "CM01 - Matrices and Properties of Matrix Operations.md",
-    "CS01 - Initializing Arrays.md",
-    "CM - Vectors.md",
-    "CM01 - Matrices and Properties of Matrix Operations 1.md",
-    "S&P - Random Variables and Probability Distributions.md"
+    "CSMATH2 - Linear Algebra for Computer Science/CM02 - Identity Matrix, Inverse of Matrix, Special Matrices 1.md",
+    "CSMATH2 - Linear Algebra for Computer Science/CM03 - Using EROs to Find the Inverse of a Matrix.md",
+    "CSMATH2 - Linear Algebra for Computer Science/CM04 - Matrices and Systems of Linear Equations 01.md",
+    "drafts/CM04 - Matrices and Systems of Linear Equations 01.md",
+    "CSMATH2 - Linear Algebra for Computer Science/CM01 - Matrices and Properties of Matrix Operations.md",
+    "drafts/CM03 - Using EROs to Find the Inverse of a Matrix.md",
+    "Untitled 2.md",
+    "drafts/CM02 - Identity Matrix, Inverse of Matrix, Special Matrices.md",
+    "drafts/CM01 - Matrices and Properties of Matrix Operations.md",
+    "Untitled.md"
   ]
 }
